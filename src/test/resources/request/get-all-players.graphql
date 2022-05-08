@@ -1,0 +1,5 @@
+query{
+  getAllPlayers{
+    id,name,surname,position
+  }
+}

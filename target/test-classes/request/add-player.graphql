@@ -1,0 +1,5 @@
+mutation{
+  addPlayer(playerDto:{name:"Muhammet",surname:"Tiryaki",position:PG}){
+    id, name, surname, position
+  }
+}
